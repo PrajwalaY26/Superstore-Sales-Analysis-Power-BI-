@@ -24,23 +24,23 @@ The dataset used is a popular sample CSV (Superstore Sales data) containing:
 
 > The data is fictional and often used for practice or demonstration purposes.
 
-## 🧠 Key Insights
+## Key Insights
 
 - Profits vary widely across categories and regions.
 - Discounts have a noticeable impact on profitability.
 - Forecasting shows short-term sales trends based on historical data.
 
-## 🔧 Tools Used
+## Tools Used
 
 - **Power BI Desktop**
 - **DAX (Data Analysis Expressions)** for calculated measures and KPIs
 - **CSV File** as data source
 
-## 🚀 Getting Started
+## Getting Started
 
 To explore the dashboard:
 1. Clone this repository
-2. Open the `.pbix` file in Power BI Desktop
+2. Open the `.pbix` file in Power BI Desktop (I just shared the snapshots of the dashboard bcz unfortunately I am not able to genererate the embedded code for my report)
 3. (Optional) Load the CSV if prompted and refresh the model
 
 ## 🤝 Why I Made This
