@@ -42,6 +42,8 @@ The dataset used is a popular sample CSV (Superstore Sales data) containing:
 
 I built this project to improve my Power BI skills and to practice end-to-end business analysis — from data wrangling to visualization and forecasting. Sharing it here in case it helps others doing the same!
 
+Followed [YouTube Video](https://www.youtube.com/watch?v=fZn83JRt4Nk&t=3055s) for this! It was super easy to understand and follow!
+
 ## 📌 Notes
 
 - Forecasting is based on historical sales using Power BI’s default time series model.
