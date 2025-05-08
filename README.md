@@ -3,6 +3,8 @@
 Hi there! 👋  
 This project is a Power BI dashboard I created to analyze and forecast sales for a fictional superstore. It includes an in-depth look at past sales performance, customer segments, and a simple 15-day sales forecast — all powered by a single CSV dataset.
 
+Take a look at my live dashboard here: [View](https://app.powerbi.com/groups/me/reports/96b7da2c-6464-4877-a0a0-e72bf1db7605/5a04f0bc36d5dab5e7c7?bookmarkGuid=a788dd0f-f76e-40cb-94d3-ac417b5a0571&bookmarkUsage=1&ctid=0b0d0759-1508-48c6-a560-01133e331463&portalSessionId=d3a76e7e-747b-4e21-8f96-31bf0cc032fe&fromEntryPoint=export)
+
 ## 📊 What’s Inside
 
 - **Interactive Dashboard** built in Power BI
@@ -35,13 +37,6 @@ The dataset used is a popular sample CSV (Superstore Sales data) containing:
 - **Power BI Desktop**
 - **DAX (Data Analysis Expressions)** for calculated measures and KPIs
 - **CSV File** as data source
-
-## Getting Started
-
-To explore the dashboard:
-1. Clone this repository
-2. Open the `.pbix` file in Power BI Desktop (I just shared the snapshots of the dashboard bcz unfortunately I am not able to genererate the embedded code for my report)
-3. (Optional) Load the CSV if prompted and refresh the model
 
 ## 🤝 Why I Made This
 
